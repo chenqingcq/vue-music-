@@ -142,25 +142,11 @@
     ├── 4.png
     └── 5.png
 
-```
-
-## 项目截图
-
-![image](https://github.com/songhaoreact/vue-music/blob/master/static/1.png)
-
-![image](https://github.com/songhaoreact/vue-music/blob/master/static/2.png)
-
-![image](https://github.com/songhaoreact/vue-music/blob/master/static/3.png)
-
-![image](https://github.com/songhaoreact/vue-music/blob/master/static/4.png)
-
-![image](https://github.com/songhaoreact/vue-music/blob/master/static/5.png)
-
 
 ### 安装与运行
 
 ```
-git clone https://github.com/songhaoreact/vue-music.git
+git clone https://github.com/chenqingcq/vue-music-.git
 
 cd vue-music
 
